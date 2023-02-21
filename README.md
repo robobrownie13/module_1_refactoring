@@ -24,4 +24,4 @@ THEN I find a concise, descriptive title  <br>
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:  <br>
-/insert image link/
+<img src="./Assets/01-html-css-git-homework-demo.png" alt="Horiseon Home Page Preview">
