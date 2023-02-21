@@ -6,13 +6,14 @@
 
 body {
     background-color: #d9dcd6;
+    color: #ffffff;
 }
-
+/*defined font color in body because most elements are the same color*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+
 }
 
 .header h1 {
@@ -88,7 +89,6 @@ p {
 
 .benefits div {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 /*targets benefits divs*/
 
@@ -110,7 +110,6 @@ section {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
 }
 /*formats sections in main*/
 
@@ -131,7 +130,9 @@ h2 {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    color: black;
 }
+/*changed the footer font color to default black to match mock up*/
 
 .footer h2 {
     font-size: 20px;
